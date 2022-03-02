@@ -1,5 +1,4 @@
 import math
-from pkg_resources import yield_lines
 import pygame
 import random
 
